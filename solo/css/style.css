@@ -1,0 +1,32 @@
+/* *****************************************************************
+ VERSION TABLETTE
+***************************************************************** */
+@media screen and (max-width: 1440px) {
+    header {
+        background-color:#a31621;
+        height:10vh;
+    }
+    main{
+        height:70vh;
+    }
+    footer{
+        background-color:#a31621;
+        height:20vh;
+    }
+}
+/* *****************************************************************
+ VERSION MOBILE
+***************************************************************** */
+@media screen and (max-width: 768px) {
+    header {
+        background-color:#3d348b;
+        height:5vh;
+    }
+    main{
+        height:85vh;
+    }
+    footer{
+        background-color:#3d348b;
+        height:10vh;
+    }
+}
